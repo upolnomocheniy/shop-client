@@ -1,0 +1,11 @@
+.dropdown-menu{
+    max-height: 200px;
+    overflow-y: scroll;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
+.dropdown-toggle {
+    padding-left: 30%;
+    padding-right: 30%;
+}
